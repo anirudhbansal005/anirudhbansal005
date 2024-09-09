@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focusing on studies<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with programming<br>🌱 I’m currently learning machine learning<br>📄Preparing for GATE 2027<br>💬 Ask me about anything<br>⚡ Fun fact, I'm left handed :P
+🔭 I’m currently focusing on studies<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with programming<br>🌱 I’m currently learning machine learning<br>📄 Preparing for GATE 2027<br>💬 Ask me about anything<br>⚡ Fun fact, I'm left handed :P
 
 
 ## 🌐 Socials:
